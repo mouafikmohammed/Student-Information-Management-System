@@ -18,7 +18,8 @@ following operations:
 
 ### Find the student by the given roll number: 
    This function is to find the student record for the given roll number and print the details.
-      <img src="image/Find by Roll Number.jpg" width=350 />
+   
+   <img src="image/Find by Roll Number.jpg" width=350 />
 
 ### Find the student by the given first name: 
    This function is to find all the students with the given first name and print their details.
