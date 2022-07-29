@@ -14,10 +14,11 @@ following operations:
 ### Add Student Details: 
    Get data from user and add a student to the list of students. While adding the students into the list, check for the uniqueness of the roll number.
    
-   <img src="image/add.jpg" width=300 />
+   <img src="image/add.jpg" width=350 />
 
 ### Find the student by the given roll number: 
    This function is to find the student record for the given roll number and print the details.
+      <img src="image/Find by Roll Number.jpg" width=350 />
 
 ### Find the student by the given first name: 
    This function is to find all the students with the given first name and print their details.
