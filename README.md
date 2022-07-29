@@ -11,7 +11,7 @@ following operations:
 
 ## Diagram
 
-   <img src="image/Diagram.vsdx.jpg" width=600 align=right />
+   <img src="image/Diagram.vsdx.jpg" width=600/>
 
 ## Steps:
 
