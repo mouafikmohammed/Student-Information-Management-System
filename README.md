@@ -13,6 +13,7 @@ following operations:
 
 ### Add Student Details: 
    Get data from user and add a student to the list of students. While adding the students into the list, check for the uniqueness of the roll number.
+   <\br>
    <img src="image/add.jpg" width=150 height=150 />
 
 ### Find the student by the given roll number: 
